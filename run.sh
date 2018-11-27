@@ -1,0 +1,1 @@
+./main ancillary/setup/data.txt ancillary/setup/actions.txt

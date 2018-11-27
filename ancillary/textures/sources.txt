@@ -1,0 +1,8 @@
+sun.jpg credit: NASA JPL
+mercury.jpg source: http://4.bp.blogspot.com/-7oKptA6Bd8w/Ucmfcqpx_FI/AAAAAAAAAwM/JBKRYyjCCAI/s1600/Complete+Global+Mosaic+of+Mercury+with+Mercator+Projection.png
+venus.gif source: http://solarviews.com/raw/venus/venmap.gif
+earth.jpg source: https://upload.wikimedia.org/wikipedia/commons/7/74/Mercator-projection.jpg
+jupiter.jpg source: http://2.bp.blogspot.com/-K664Ej5RVkQ/Tdk3yH-qcZI/AAAAAAAAB2M/p-0yHZd0gMc/s1600/jupiter_surface.jpg
+saturn.jpg source: http://bjj.mmedia.is/data/saturn/saturn.jpg
+universe.jpg source: https://www.pexels.com/photo/sky-with-stars-illustration-957061/
+mars.jpg source: https://www.astronomie.de/fileadmin/user_upload/Sonnensystem/Mars/marsmap.jpg

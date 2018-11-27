@@ -1,0 +1,24 @@
+# Universe background
+0, ancillary/models/new_ball.dae ancillary/textures/universe.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 0.0f 0.0f
+# The Sun
+1 ancillary/models/new_ball.dae ancillary/textures/sun.jpg ancillary/shaders/core.vs ancillary/shaders/core.frag 0.0f 0.0f 0.0f
+# Mercury
+2, null null null null 0.0f 0.0f 0.0f
+2,0 ancillary/models/new_ball.dae ancillary/textures/mercury.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 10.0f 0.0f
+# Venus
+3, null null null null 0.0f 0.0f 0.0f
+3,0 ancillary/models/new_ball.dae ancillary/textures/venus.gif ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 20.0f 0.0f
+# Earth and moon
+4, null null null null 0.0f 0.0f 0.0f
+4,0 ancillary/models/new_ball.dae ancillary/textures/earth.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 40.0f 0.0f
+4,0,0 ancillary/models/new_ball.dae ancillary/textures/moon.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 0.0f 0.0f
+# Mars
+5, null null null null 0.0f 0.0f 0.0f
+5,0 ancillary/models/new_ball.dae ancillary/textures/mars.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 50.0f 0.0f
+# Jupiter
+6, null null null null 0.0f 0.0f 0.0f
+6,0 ancillary/models/new_ball.dae ancillary/textures/jupiter.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 60.0f 0.0f
+# Saturn
+7, null null null null 0.0f 0.0f 0.0f
+7,0 ancillary/models/new_ball.dae ancillary/textures/saturn.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 5.0f 70.0f 0.0f
+7,0,0, ancillary/models/ring.dae ancillary/textures/sand.jpg ancillary/shaders/cube.vs ancillary/shaders/cube.frag 0.0f 0.0f 0.0f
